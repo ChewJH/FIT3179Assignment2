@@ -1,26 +1,101 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Composition of Tourism Industry as part of total Malaysian workforce",
     "data": {
-        "url": "data/Employment Tourism 2.csv"
+        "url": "data/Employment Tourism.csv"
     },
-    "transform": [
-        {"calculate": "toDate(datum.Year)", "as": "Year"},
-        {"groupby": ["Year"]}
+    "params": [
+        {
+            "name": "Year_Filter",
+            "value": null,
+            "bind": {
+                "input": "select",
+                "options": [
+                    null,
+                    2015,
+                    2016,
+                    2017,
+                    2018,
+                    2019,
+                    2020,
+                    2021,
+                    2022
+                ],
+                "labels": [
+                    "Show All",
+                    "2015",
+                    "2016",
+                    "2017",
+                    "2018",
+                    "2019",
+                    "2020",
+                    "2021",
+                    "2022"
+                ],
+                "name": "Year: "
+            }
+        }
     ],
     "mark": "bar",
     "encoding": {
         "x": {
+            "timeUnit": "year",
             "field": "Year",
-            "type": "ordinal",
-            "timeUnit": "utcdate"
+            "type": "nominal",
+            "title": "Year"
         },
         "y": {
-            "aggregate": "sum",
             "field": "Number of Employed Workers",
             "type": "quantitative",
             "title": "Number of Employed Workers"
         },
-        "color": {"field": "Industry", "type": "nominal"}
-    }
-   
+        "color": {
+            "field": "Industry",
+            "type": "nominal",
+            "sort": [
+                "Accommodation and food and beverage service activities"
+            ],
+            "scale": {
+                "range": [
+                    "red",
+                    "darkblue",
+                    "darkblue",
+                    "darkblue",
+                    "darkblue",
+                    "darkblue",
+                    "darkblue",
+                    "darkblue",
+                    "darkblue",
+                    "darkblue",
+                    "darkblue",
+                    "darkblue",
+                    "darkblue",
+                    "darkblue",
+                    "darkblue",
+                    "darkblue",
+                    "darkblue",
+                    "darkblue",
+                    "darkblue"
+                ]
+            },
+            "legend": {
+                "columns": 2,
+                "rowPadding": 10,
+                "labelLimit": 500
+            }
+        },
+        "tooltip":[
+            {"field": "Industry"},
+            {"field": "Year", "timeUnit":"year", "title": "Year"},
+            {"field": "Number of Employed Workers"}
+        ]
+    },
+    "transform": [
+        {
+            "filter": "Year_Filter == null ? year(datum.Year) <= 2022 : year(datum.Year) == Year_Filter"
+        },
+        {
+            "filter": "datum.Industry != 'Average Median Wage'"
+        }
+    ]
 }

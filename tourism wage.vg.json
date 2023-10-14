@@ -1,24 +1,66 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Percentage of Labour Force in Tourism Industry",
+    "title": "Median Wage of Tourism Industry Against Other Industries",
     "data": {
         "url": "data/Employment Tourism.csv"
     },
-    "mark": "line",
+    "mark": {
+        "type": "line",
+        "point": true
+    },
     "encoding": {
         "x": {
+            "timeUnit": "year",
             "field": "Year",
-            "type": "ordinal",
+            "type": "nominal",
             "title": "Year"
         },
         "y": {
             "field": "Median Wage",
             "type": "quantitative",
-            "title": "Number of Employed Workers (millions)"
+            "title": "Median Wage (RM)"
         },
         "color": {
             "field": "Industry",
-            "type": "nominal"
-        }
+            "type": "nominal",
+            "sort": [
+                "Accommodation and food and beverage service activities",
+                "Average Median Wage"
+            ],
+            "scale": {
+                "range": [
+                    "darkred",
+                    "blue",
+                    "lightgray",
+                    "lightgray",
+                    "lightgray",
+                    "lightgray",
+                    "lightgray",
+                    "lightgray",
+                    "lightgray",
+                    "lightgray",
+                    "lightgray",
+                    "lightgray",
+                    "lightgray",
+                    "lightgray",
+                    "lightgray",
+                    "lightgray",
+                    "lightgray",
+                    "lightgray",
+                    "lightgray",
+                    "lightgray"
+                ]
+            },
+            "legend": {
+            
+                "labelLimit": 500,
+                "symbolLimit":3
+            }
+        },
+        "tooltip":[
+            {"field": "Industry"},
+            {"field": "Year", "timeUnit":"year", "title": "Year"},
+            {"field": "Median Wage", "title": "Median Wage (RM)"}
+        ]
     }
 }

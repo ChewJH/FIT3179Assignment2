@@ -1,248 +1,261 @@
-﻿Year,Industry,Number of Employed Workers,Median Wage,Mean Wage
-01/01/2010,Agriculture,223.2,780,1159
-01/01/2010,Mining and quarrying ,52.4,2800,3544
-01/01/2010,Manufacturing,1480.4,1270,1691
-01/01/2010,"Electricity, gas, steam and air conditioning supply ",47,2300,2939
-01/01/2010,"Water supply; sewerage, waste management and remediation activities ",54.6,1210,1532
-01/01/2010,Construction ,582.7,1200,1646
-01/01/2010,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1103,1100,1432
-01/01/2010,Transportation and storage,406.3,1500,1958
-01/01/2010,Accommodation and food and beverage service activities,396.2,900,1115
-01/01/2010,Information and communication,142.4,2500,3188
-01/01/2010,Financial and insurance/takaful activities ,276.1,2500,2981
-01/01/2010,Real estate activities ,42,2500,2812
-01/01/2010,"Professional, scientific and technical activities",220.6,1900,2356
-01/01/2010,Administrative and support service activities ,230.7,1000,1372
-01/01/2010,Public administration and defence; compulsory social security,778.8,2045,2350
-01/01/2010,Education ,707.1,2800,2875
-01/01/2010,Human health and social work activities ,236.4,1995,2347
-01/01/2010,"Arts, entertainment and recreation",65.8,1250,1496
-01/01/2010,Other service activities,102.2,1200,1387
-01/01/2011,Agriculture,181,800,1182
-01/01/2011,Mining and quarrying ,63,2400,3557
-01/01/2011,Manufacturing,1606.7,1320,1709
-01/01/2011,"Electricity, gas, steam and air conditioning supply ",48.8,2400,2706
-01/01/2011,"Water supply; sewerage, waste management and remediation activities ",54.3,1500,1911
-01/01/2011,Construction ,639.2,1300,1767
-01/01/2011,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1230.1,1160,1478
-01/01/2011,Transportation and storage,420.3,1500,1872
-01/01/2011,Accommodation and food and beverage service activities,425.5,900,1134
-01/01/2011,Information and communication,158.6,2500,3078
-01/01/2011,Financial and insurance/takaful activities ,277.7,2500,2949
-01/01/2011,Real estate activities ,40.6,2400,2992
-01/01/2011,"Professional, scientific and technical activities",269.5,2000,2644
-01/01/2011,Administrative and support service activities ,329.1,900,1278
-01/01/2011,Public administration and defence; compulsory social security,717.7,2160,2474
-01/01/2011,Education ,725.5,2850,2885
-01/01/2011,Human health and social work activities ,274.1,2000,2329
-01/01/2011,"Arts, entertainment and recreation",67,1100,1502
-01/01/2011,Other service activities,104.7,1000,1370
-01/01/2012,Agriculture,202.3,900,1229
-01/01/2012,Mining and quarrying ,72,2500,3441
-01/01/2012,Manufacturing,1594.6,1500,1884
-01/01/2012,"Electricity, gas, steam and air conditioning supply ",60.5,2200,2684
-01/01/2012,"Water supply; sewerage, waste management and remediation activities ",59.7,1500,1679
-01/01/2012,Construction ,625.8,1300,1814
-01/01/2012,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1261.5,1200,1511
-01/01/2012,Transportation and storage,442.5,1500,1999
-01/01/2012,Accommodation and food and beverage service activities,463.3,945,1218
-01/01/2012,Information and communication,181.6,2600,3153
-01/01/2012,Financial and insurance/takaful activities ,283.9,2500,3060
-01/01/2012,Real estate activities ,46.9,2200,2974
-01/01/2012,"Professional, scientific and technical activities",252.6,2000,2815
-01/01/2012,Administrative and support service activities ,351.4,900,1180
-01/01/2012,Public administration and defence; compulsory social security,672.7,2245,2561
-01/01/2012,Education ,733.1,3050,3113
-01/01/2012,Human health and social work activities ,296.9,2100,2467
-01/01/2012,"Arts, entertainment and recreation",65.4,1250,1598
-01/01/2012,Other service activities,114.2,1200,1421
-01/01/2013,Agriculture,232.6,900,1218
-01/01/2013,Mining and quarrying ,68.2,2800,3558
-01/01/2013,Manufacturing,1497.8,1500,1969
-01/01/2013,"Electricity, gas, steam and air conditioning supply ",48.9,2500,2940
-01/01/2013,"Water supply; sewerage, waste management and remediation activities ",64.9,1410,1667
-01/01/2013,Construction ,640.4,1500,1908
-01/01/2013,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1325.8,1300,1607
-01/01/2013,Transportation and storage,430.4,1800,2044
-01/01/2013,Accommodation and food and beverage service activities,457.4,1000,1329
-01/01/2013,Information and communication,159.9,3000,3496
-01/01/2013,Financial and insurance/takaful activities ,277.6,2500,3165
-01/01/2013,Real estate activities ,57.9,2500,3164
-01/01/2013,"Professional, scientific and technical activities",252.7,2200,2801
-01/01/2013,Administrative and support service activities ,377,1000,1393
-01/01/2013,Public administration and defence; compulsory social security,765.5,2490,2873
-01/01/2013,Education ,753,3352,3386
-01/01/2013,Human health and social work activities ,305.2,2300,2637
-01/01/2013,"Arts, entertainment and recreation",73.9,1400,1627
-01/01/2013,Other service activities,113,1300,1551
-01/01/2014,Agriculture,237.6,1044,1351
-01/01/2014,Mining and quarrying ,70.5,3500,5016
-01/01/2014,Manufacturing,1617.9,1700,2154
-01/01/2014,"Electricity, gas, steam and air conditioning supply ",63.3,2500,2867
-01/01/2014,"Water supply; sewerage, waste management and remediation activities ",67.1,1600,1961
-01/01/2014,Construction ,692.1,1500,2024
-01/01/2014,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1399,1300,1727
-01/01/2014,Transportation and storage,448.6,1800,2179
-01/01/2014,Accommodation and food and beverage service activities,514.1,1100,1393
-01/01/2014,Information and communication,191.3,2970,3460
-01/01/2014,Financial and insurance/takaful activities ,269.6,3000,3615
-01/01/2014,Real estate activities ,58.4,2500,3716
-01/01/2014,"Professional, scientific and technical activities",257.7,2500,3174
-01/01/2014,Administrative and support service activities ,450.5,1100,1513
-01/01/2014,Public administration and defence; compulsory social security,738.3,2800,3154
-01/01/2014,Education ,814.8,3714,3707
-01/01/2014,Human health and social work activities ,304.5,2500,2980
-01/01/2014,"Arts, entertainment and recreation",69.7,1500,1831
-01/01/2014,Other service activities,124.6,1400,1742
-01/01/2015,Agriculture,246.2,1130,1543
-01/01/2015,Mining and quarrying ,93.5,3600,4295
-01/01/2015,Manufacturing,1514,1610,2187
-01/01/2015,"Electricity, gas, steam and air conditioning supply ",51.2,2550,2877
-01/01/2015,"Water supply; sewerage, waste management and remediation activities ",53.6,1798,2175
-01/01/2015,Construction ,676,1560,2131
-01/01/2015,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1372.7,1400,1791
-01/01/2015,Transportation and storage,463.6,1900,2431
-01/01/2015,Accommodation and food and beverage service activities,522.8,1100,1477
-01/01/2015,Information and communication,182.2,3000,3695
-01/01/2015,Financial and insurance/takaful activities ,307,3000,3502
-01/01/2015,Real estate activities ,53.6,3000,3855
-01/01/2015,"Professional, scientific and technical activities",278.8,2500,3334
-01/01/2015,Administrative and support service activities ,451.3,1150,1522
-01/01/2015,Public administration and defence; compulsory social security,739.2,2800,3196
-01/01/2015,Education ,846.8,3990,3984
-01/01/2015,Human health and social work activities ,324.8,2550,3043
-01/01/2015,"Arts, entertainment and recreation",58,1544,2000
-01/01/2015,Other service activities,113.2,1500,1751
-01/01/2016,Agriculture,212.5,1200,1729
-01/01/2016,Mining and quarrying ,99.8,3690,4940
-01/01/2016,Manufacturing,1557.4,1800,2348
-01/01/2016,"Electricity, gas, steam and air conditioning supply ",79,3000,3324
-01/01/2016,"Water supply; sewerage, waste management and remediation activities ",61.4,1650,2070
-01/01/2016,Construction ,679.8,1630,2220
-01/01/2016,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1401.3,1600,1883
-01/01/2016,Transportation and storage,459.2,2000,2548
-01/01/2016,Accommodation and food and beverage service activities,539.3,1140,1547
-01/01/2016,Information and communication,172.1,3200,4010
-01/01/2016,Financial and insurance/takaful activities ,281.7,3070,4093
-01/01/2016,Real estate activities ,56.8,3365,4281
-01/01/2016,"Professional, scientific and technical activities",269.2,2800,3689
-01/01/2016,Administrative and support service activities ,441.8,1200,1667
-01/01/2016,Public administration and defence; compulsory social security,719.4,3015,3496
-01/01/2016,Education ,837.3,4132,4132
-01/01/2016,Human health and social work activities ,364,2800,3182
-01/01/2016,"Arts, entertainment and recreation",77.5,1682,2091
-01/01/2016,Other service activities,114.4,1510,1848
-01/01/2017,Agriculture,197.7,1350,1825
-01/01/2017,Mining and quarrying ,82.6,3700,5706
-01/01/2017,Manufacturing,1654.6,1900,2443
-01/01/2017,"Electricity, gas, steam and air conditioning supply ",59.9,3150,4011
-01/01/2017,"Water supply; sewerage, waste management and remediation activities ",64,2000,2429
-01/01/2017,Construction ,682.4,1900,2587
-01/01/2017,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1453.1,1650,2015
-01/01/2017,Transportation and storage,484.3,2000,2707
-01/01/2017,Accommodation and food and beverage service activities,583.6,1500,1754
-01/01/2017,Information and communication,190.2,3500,4429
-01/01/2017,Financial and insurance/takaful activities ,319.1,3100,4437
-01/01/2017,Real estate activities ,66.6,3400,4880
-01/01/2017,"Professional, scientific and technical activities",270.4,3000,4129
-01/01/2017,Administrative and support service activities ,466.8,1350,1859
-01/01/2017,Public administration and defence; compulsory social security,722,3162,3681
-01/01/2017,Education ,810.9,4458,4500
-01/01/2017,Human health and social work activities ,376.2,3000,3705
-01/01/2017,"Arts, entertainment and recreation",61.2,1700,2521
-01/01/2017,Other service activities,130.9,1800,2022
-01/01/2018,Agriculture,216.8,1392,1865
-01/01/2018,Mining and quarrying ,82,3703,6017
-01/01/2018,Manufacturing,1590.1,1959,2565
-01/01/2018,"Electricity, gas, steam and air conditioning supply ",66.5,3324,4437
-01/01/2018,"Water supply; sewerage, waste management and remediation activities ",68.1,2183,2719
-01/01/2018,Construction ,676.3,2164,2821
-01/01/2018,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1442.4,1774,2154
-01/01/2018,Transportation and storage,507.3,2175,2866
-01/01/2018,Accommodation and food and beverage service activities,621,1657,1914
-01/01/2018,Information and communication,184.6,3641,4805
-01/01/2018,Financial and insurance/takaful activities ,288.3,3370,4703
-01/01/2018,Real estate activities ,76.8,3601,5526
-01/01/2018,"Professional, scientific and technical activities",290.7,3261,4704
-01/01/2018,Administrative and support service activities ,499.7,1545,2094
-01/01/2018,Public administration and defence; compulsory social security,694.1,3350,3848
-01/01/2018,Education ,911.1,4546,4714
-01/01/2018,Human health and social work activities ,356.5,3202,4022
-01/01/2018,"Arts, entertainment and recreation",63.2,1832,2687
-01/01/2018,Other service activities,124.8,1971,2197
-01/01/2019,Agriculture,223.9,1531,1997
-01/01/2019,Mining and quarrying ,82.3,3968,6154
-01/01/2019,Manufacturing,1694.3,1967,2616
-01/01/2019,"Electricity, gas, steam and air conditioning supply ",70.1,3616,4573
-01/01/2019,"Water supply; sewerage, waste management and remediation activities ",65.2,2300,2833
-01/01/2019,Construction ,682.6,2169,2854
-01/01/2019,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1546.5,1777,2363
-01/01/2019,Transportation and storage,517.6,2393,3000
-01/01/2019,Accommodation and food and beverage service activities,671.3,1660,2081
-01/01/2019,Information and communication,187.8,3989,4898
-01/01/2019,Financial and insurance/takaful activities ,320,3660,4737
-01/01/2019,Real estate activities ,74.3,3910,5755
-01/01/2019,"Professional, scientific and technical activities",320,3531,4799
-01/01/2019,Administrative and support service activities ,551.8,1700,2195
-01/01/2019,Public administration and defence; compulsory social security,711.2,3620,4142
-01/01/2019,Education ,907,4868,5112
-01/01/2019,Human health and social work activities ,374.1,3519,4071
-01/01/2019,"Arts, entertainment and recreation",59.1,1948,2797
-01/01/2019,Other service activities,135.9,2012,2333
-01/01/2020,Agriculture,246.3,1291,1598
-01/01/2020,Mining and quarrying ,70.5,3402,5064
-01/01/2020,Manufacturing,1770.9,1908,2542
-01/01/2020,"Electricity, gas, steam and air conditioning supply ",65.7,2784,3596
-01/01/2020,"Water supply; sewerage, waste management and remediation activities ",62.3,2073,2571
-01/01/2020,Construction ,690.8,1856,2557
-01/01/2020,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1501.8,1514,2011
-01/01/2020,Transportation and storage,559,2062,2481
-01/01/2020,Accommodation and food and beverage service activities,742.5,1293,1795
-01/01/2020,Information and communication,186.3,3547,4310
-01/01/2020,Financial and insurance/takaful activities ,326.7,3273,4221
-01/01/2020,Real estate activities ,73.5,3037,3570
-01/01/2020,"Professional, scientific and technical activities",313,3028,3959
-01/01/2020,Administrative and support service activities ,575,1393,1992
-01/01/2020,Public administration and defence; compulsory social security,724.1,3761,4146
-01/01/2020,Education ,856.6,5058,5088
-01/01/2020,Human health and social work activities ,431.7,3602,4077
-01/01/2020,"Arts, entertainment and recreation",42.7,1882,2665
-01/01/2020,Other service activities,151.2,1593,2124
-01/01/2021,Agriculture,254,1490,1776
-01/01/2021,Mining and quarrying ,67.5,3921,5040
-01/01/2021,Manufacturing,1899.6,1976,2606
-01/01/2021,"Electricity, gas, steam and air conditioning supply ",72.8,2993,3401
-01/01/2021,"Water supply; sewerage, waste management and remediation activities ",64.1,2067,2650
-01/01/2021,Construction ,683.5,1781,2347
-01/01/2021,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1584.8,1697,2063
-01/01/2021,Transportation and storage,545.1,2091,2576
-01/01/2021,Accommodation and food and beverage service activities,745.8,1581,1950
-01/01/2021,Information and communication,210.8,3754,4346
-01/01/2021,Financial and insurance/takaful activities ,335.9,3330,3949
-01/01/2021,Real estate activities ,72.7,3255,3636
-01/01/2021,"Professional, scientific and technical activities",319.4,3162,3916
-01/01/2021,Administrative and support service activities ,574.8,1692,2040
-01/01/2021,Public administration and defence; compulsory social security,731,3929,4313
-01/01/2021,Education ,909.9,5331,5550
-01/01/2021,Human health and social work activities ,454,4193,4546
-01/01/2021,"Arts, entertainment and recreation",34.2,2562,2908
-01/01/2021,Other service activities,152.1,1735,2016
-01/01/2022,Agriculture,272,1504,1927
-01/01/2022,Mining and quarrying ,69.2,4268,5247
-01/01/2022,Manufacturing,1934.6,2205,2813
-01/01/2022,"Electricity, gas, steam and air conditioning supply ",81.3,3083,3565
-01/01/2022,"Water supply; sewerage, waste management and remediation activities ",72.1,2170,2747
-01/01/2022,Construction ,662.7,1839,2535
-01/01/2022,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1637.4,1772,2219
-01/01/2022,Transportation and storage,532.5,2223,2740
-01/01/2022,Accommodation and food and beverage service activities,763.7,1623,2091
-01/01/2022,Information and communication,216.8,4034,4547
-01/01/2022,Financial and insurance/takaful activities ,357.3,3431,4204
-01/01/2022,Real estate activities ,66.8,3382,3866
-01/01/2022,"Professional, scientific and technical activities",333.2,3409,4138
-01/01/2022,Administrative and support service activities ,567.4,1773,2202
-01/01/2022,Public administration and defence; compulsory social security,748.3,4110,4469
-01/01/2022,Education ,926.2,5504,5639
-01/01/2022,Human health and social work activities ,490.5,4332,4715
-01/01/2022,"Arts, entertainment and recreation",42.8,2592,3054
-01/01/2022,Other service activities,172.5,1798,2197
+Year,Industry,Number of Employed Workers,Median Wage,
+01/01/2010,Agriculture,223.2,780,
+01/01/2010,Mining and quarrying ,52.4,2800,
+01/01/2010,Manufacturing,1480.4,1270,
+01/01/2010,"Electricity, gas, steam and air conditioning supply ",47,2300,
+01/01/2010,"Water supply; sewerage, waste management and remediation activities ",54.6,1210,
+01/01/2010,Construction ,582.7,1200,
+01/01/2010,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1103,1100,
+01/01/2010,Transportation and storage,406.3,1500,
+01/01/2010,Accommodation and food and beverage service activities,396.2,900,
+01/01/2010,Information and communication,142.4,2500,
+01/01/2010,Financial and insurance/takaful activities ,276.1,2500,
+01/01/2010,Real estate activities ,42,2500,
+01/01/2010,"Professional, scientific and technical activities",220.6,1900,
+01/01/2010,Administrative and support service activities ,230.7,1000,
+01/01/2010,Public administration and defence; compulsory social security,778.8,2045,
+01/01/2010,Education ,707.1,2800,
+01/01/2010,Human health and social work activities ,236.4,1995,
+01/01/2010,"Arts, entertainment and recreation",65.8,1250,
+01/01/2010,Other service activities,102.2,1200,
+01/01/2010,Average Median Wage,0,1724,
+01/01/2011,Agriculture,181,800,
+01/01/2011,Mining and quarrying ,63,2400,
+01/01/2011,Manufacturing,1606.7,1320,
+01/01/2011,"Electricity, gas, steam and air conditioning supply ",48.8,2400,
+01/01/2011,"Water supply; sewerage, waste management and remediation activities ",54.3,1500,
+01/01/2011,Construction ,639.2,1300,
+01/01/2011,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1230.1,1160,
+01/01/2011,Transportation and storage,420.3,1500,
+01/01/2011,Accommodation and food and beverage service activities,425.5,900,
+01/01/2011,Information and communication,158.6,2500,
+01/01/2011,Financial and insurance/takaful activities ,277.7,2500,
+01/01/2011,Real estate activities ,40.6,2400,
+01/01/2011,"Professional, scientific and technical activities",269.5,2000,
+01/01/2011,Administrative and support service activities ,329.1,900,
+01/01/2011,Public administration and defence; compulsory social security,717.7,2160,
+01/01/2011,Education ,725.5,2850,
+01/01/2011,Human health and social work activities ,274.1,2000,
+01/01/2011,"Arts, entertainment and recreation",67,1100,
+01/01/2011,Other service activities,104.7,1000,
+01/01/2011,Average Median Wage,0,1721,
+01/01/2012,Agriculture,202.3,900,
+01/01/2012,Mining and quarrying ,72,2500,
+01/01/2012,Manufacturing,1594.6,1500,
+01/01/2012,"Electricity, gas, steam and air conditioning supply ",60.5,2200,
+01/01/2012,"Water supply; sewerage, waste management and remediation activities ",59.7,1500,
+01/01/2012,Construction ,625.8,1300,
+01/01/2012,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1261.5,1200,
+01/01/2012,Transportation and storage,442.5,1500,
+01/01/2012,Accommodation and food and beverage service activities,463.3,945,
+01/01/2012,Information and communication,181.6,2600,
+01/01/2012,Financial and insurance/takaful activities ,283.9,2500,
+01/01/2012,Real estate activities ,46.9,2200,
+01/01/2012,"Professional, scientific and technical activities",252.6,2000,
+01/01/2012,Administrative and support service activities ,351.4,900,
+01/01/2012,Public administration and defence; compulsory social security,672.7,2245,
+01/01/2012,Education ,733.1,3050,
+01/01/2012,Human health and social work activities ,296.9,2100,
+01/01/2012,"Arts, entertainment and recreation",65.4,1250,
+01/01/2012,Other service activities,114.2,1200,
+01/01/2012,Average Median Wage,0,1768,
+01/01/2013,Agriculture,232.6,900,
+01/01/2013,Mining and quarrying ,68.2,2800,
+01/01/2013,Manufacturing,1497.8,1500,
+01/01/2013,"Electricity, gas, steam and air conditioning supply ",48.9,2500,
+01/01/2013,"Water supply; sewerage, waste management and remediation activities ",64.9,1410,
+01/01/2013,Construction ,640.4,1500,
+01/01/2013,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1325.8,1300,
+01/01/2013,Transportation and storage,430.4,1800,
+01/01/2013,Accommodation and food and beverage service activities,457.4,1000,
+01/01/2013,Information and communication,159.9,3000,
+01/01/2013,Financial and insurance/takaful activities ,277.6,2500,
+01/01/2013,Real estate activities ,57.9,2500,
+01/01/2013,"Professional, scientific and technical activities",252.7,2200,
+01/01/2013,Administrative and support service activities ,377,1000,
+01/01/2013,Public administration and defence; compulsory social security,765.5,2490,
+01/01/2013,Education ,753,3352,
+01/01/2013,Human health and social work activities ,305.2,2300,
+01/01/2013,"Arts, entertainment and recreation",73.9,1400,
+01/01/2013,Other service activities,113,1300,
+01/01/2013,Average Median Wage,0,1934,
+01/01/2014,Agriculture,237.6,1044,
+01/01/2014,Mining and quarrying ,70.5,3500,
+01/01/2014,Manufacturing,1617.9,1700,
+01/01/2014,"Electricity, gas, steam and air conditioning supply ",63.3,2500,
+01/01/2014,"Water supply; sewerage, waste management and remediation activities ",67.1,1600,
+01/01/2014,Construction ,692.1,1500,
+01/01/2014,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1399,1300,
+01/01/2014,Transportation and storage,448.6,1800,
+01/01/2014,Accommodation and food and beverage service activities,514.1,1100,
+01/01/2014,Information and communication,191.3,2970,
+01/01/2014,Financial and insurance/takaful activities ,269.6,3000,
+01/01/2014,Real estate activities ,58.4,2500,
+01/01/2014,"Professional, scientific and technical activities",257.7,2500,
+01/01/2014,Administrative and support service activities ,450.5,1100,
+01/01/2014,Public administration and defence; compulsory social security,738.3,2800,
+01/01/2014,Education ,814.8,3714,
+01/01/2014,Human health and social work activities ,304.5,2500,
+01/01/2014,"Arts, entertainment and recreation",69.7,1500,
+01/01/2014,Other service activities,124.6,1400,
+01/01/2014,Average Median Wage,,2107,
+01/01/2015,Agriculture,246.2,1130,
+01/01/2015,Mining and quarrying ,93.5,3600,
+01/01/2015,Manufacturing,1514,1610,
+01/01/2015,"Electricity, gas, steam and air conditioning supply ",51.2,2550,
+01/01/2015,"Water supply; sewerage, waste management and remediation activities ",53.6,1798,
+01/01/2015,Construction ,676,1560,
+01/01/2015,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1372.7,1400,
+01/01/2015,Transportation and storage,463.6,1900,
+01/01/2015,Accommodation and food and beverage service activities,522.8,1100,
+01/01/2015,Information and communication,182.2,3000,
+01/01/2015,Financial and insurance/takaful activities ,307,3000,
+01/01/2015,Real estate activities ,53.6,3000,
+01/01/2015,"Professional, scientific and technical activities",278.8,2500,
+01/01/2015,Administrative and support service activities ,451.3,1150,
+01/01/2015,Public administration and defence; compulsory social security,739.2,2800,
+01/01/2015,Education ,846.8,3990,
+01/01/2015,Human health and social work activities ,324.8,2550,
+01/01/2015,"Arts, entertainment and recreation",58,1544,
+01/01/2015,Other service activities,113.2,1500,
+01/01/2015,Average Median Wage,0,2194,
+01/01/2016,Agriculture,212.5,1200,
+01/01/2016,Mining and quarrying ,99.8,3690,
+01/01/2016,Manufacturing,1557.4,1800,
+01/01/2016,"Electricity, gas, steam and air conditioning supply ",79,3000,
+01/01/2016,"Water supply; sewerage, waste management and remediation activities ",61.4,1650,
+01/01/2016,Construction ,679.8,1630,
+01/01/2016,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1401.3,1600,
+01/01/2016,Transportation and storage,459.2,2000,
+01/01/2016,Accommodation and food and beverage service activities,539.3,1140,
+01/01/2016,Information and communication,172.1,3200,
+01/01/2016,Financial and insurance/takaful activities ,281.7,3070,
+01/01/2016,Real estate activities ,56.8,3365,
+01/01/2016,"Professional, scientific and technical activities",269.2,2800,
+01/01/2016,Administrative and support service activities ,441.8,1200,
+01/01/2016,Public administration and defence; compulsory social security,719.4,3015,
+01/01/2016,Education ,837.3,4132,
+01/01/2016,Human health and social work activities ,364,2800,
+01/01/2016,"Arts, entertainment and recreation",77.5,1682,
+01/01/2016,Other service activities,114.4,1510,
+01/01/2016,Average Median Wage,0,2341,
+01/01/2017,Agriculture,197.7,1350,
+01/01/2017,Mining and quarrying ,82.6,3700,
+01/01/2017,Manufacturing,1654.6,1900,
+01/01/2017,"Electricity, gas, steam and air conditioning supply ",59.9,3150,
+01/01/2017,"Water supply; sewerage, waste management and remediation activities ",64,2000,
+01/01/2017,Construction ,682.4,1900,
+01/01/2017,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1453.1,1650,
+01/01/2017,Transportation and storage,484.3,2000,
+01/01/2017,Accommodation and food and beverage service activities,583.6,1500,
+01/01/2017,Information and communication,190.2,3500,
+01/01/2017,Financial and insurance/takaful activities ,319.1,3100,
+01/01/2017,Real estate activities ,66.6,3400,
+01/01/2017,"Professional, scientific and technical activities",270.4,3000,
+01/01/2017,Administrative and support service activities ,466.8,1350,
+01/01/2017,Public administration and defence; compulsory social security,722,3162,
+01/01/2017,Education ,810.9,4458,
+01/01/2017,Human health and social work activities ,376.2,3000,
+01/01/2017,"Arts, entertainment and recreation",61.2,1700,
+01/01/2017,Other service activities,130.9,1800,
+01/01/2017,Average Median Wage,0,2506,
+01/01/2018,Agriculture,216.8,1392,
+01/01/2018,Mining and quarrying ,82,3703,
+01/01/2018,Manufacturing,1590.1,1959,
+01/01/2018,"Electricity, gas, steam and air conditioning supply ",66.5,3324,
+01/01/2018,"Water supply; sewerage, waste management and remediation activities ",68.1,2183,
+01/01/2018,Construction ,676.3,2164,
+01/01/2018,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1442.4,1774,
+01/01/2018,Transportation and storage,507.3,2175,
+01/01/2018,Accommodation and food and beverage service activities,621,1657,
+01/01/2018,Information and communication,184.6,3641,
+01/01/2018,Financial and insurance/takaful activities ,288.3,3370,
+01/01/2018,Real estate activities ,76.8,3601,
+01/01/2018,"Professional, scientific and technical activities",290.7,3261,
+01/01/2018,Administrative and support service activities ,499.7,1545,
+01/01/2018,Public administration and defence; compulsory social security,694.1,3350,
+01/01/2018,Education ,911.1,4546,
+01/01/2018,Human health and social work activities ,356.5,3202,
+01/01/2018,"Arts, entertainment and recreation",63.2,1832,
+01/01/2018,Other service activities,124.8,1971,
+01/01/2018,Average Median Wage,0,2666,
+01/01/2019,Agriculture,223.9,1531,
+01/01/2019,Mining and quarrying ,82.3,3968,
+01/01/2019,Manufacturing,1694.3,1967,
+01/01/2019,"Electricity, gas, steam and air conditioning supply ",70.1,3616,
+01/01/2019,"Water supply; sewerage, waste management and remediation activities ",65.2,2300,
+01/01/2019,Construction ,682.6,2169,
+01/01/2019,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1546.5,1777,
+01/01/2019,Transportation and storage,517.6,2393,
+01/01/2019,Accommodation and food and beverage service activities,671.3,1660,
+01/01/2019,Information and communication,187.8,3989,
+01/01/2019,Financial and insurance/takaful activities ,320,3660,
+01/01/2019,Real estate activities ,74.3,3910,
+01/01/2019,"Professional, scientific and technical activities",320,3531,
+01/01/2019,Administrative and support service activities ,551.8,1700,
+01/01/2019,Public administration and defence; compulsory social security,711.2,3620,
+01/01/2019,Education ,907,4868,
+01/01/2019,Human health and social work activities ,374.1,3519,
+01/01/2019,"Arts, entertainment and recreation",59.1,1948,
+01/01/2019,Other service activities,135.9,2012,
+01/01/2019,Average Median Wage,0,2849,
+01/01/2020,Agriculture,246.3,1291,
+01/01/2020,Mining and quarrying ,70.5,3402,
+01/01/2020,Manufacturing,1770.9,1908,
+01/01/2020,"Electricity, gas, steam and air conditioning supply ",65.7,2784,
+01/01/2020,"Water supply; sewerage, waste management and remediation activities ",62.3,2073,
+01/01/2020,Construction ,690.8,1856,
+01/01/2020,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1501.8,1514,
+01/01/2020,Transportation and storage,559,2062,
+01/01/2020,Accommodation and food and beverage service activities,742.5,1293,
+01/01/2020,Information and communication,186.3,3547,
+01/01/2020,Financial and insurance/takaful activities ,326.7,3273,
+01/01/2020,Real estate activities ,73.5,3037,
+01/01/2020,"Professional, scientific and technical activities",313,3028,
+01/01/2020,Administrative and support service activities ,575,1393,
+01/01/2020,Public administration and defence; compulsory social security,724.1,3761,
+01/01/2020,Education ,856.6,5058,
+01/01/2020,Human health and social work activities ,431.7,3602,
+01/01/2020,"Arts, entertainment and recreation",42.7,1882,
+01/01/2020,Other service activities,151.2,1593,
+01/01/2020,Average Median Wage,0,2545,
+01/01/2021,Agriculture,254,1490,
+01/01/2021,Mining and quarrying ,67.5,3921,
+01/01/2021,Manufacturing,1899.6,1976,
+01/01/2021,"Electricity, gas, steam and air conditioning supply ",72.8,2993,
+01/01/2021,"Water supply; sewerage, waste management and remediation activities ",64.1,2067,
+01/01/2021,Construction ,683.5,1781,
+01/01/2021,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1584.8,1697,
+01/01/2021,Transportation and storage,545.1,2091,
+01/01/2021,Accommodation and food and beverage service activities,745.8,1581,
+01/01/2021,Information and communication,210.8,3754,
+01/01/2021,Financial and insurance/takaful activities ,335.9,3330,
+01/01/2021,Real estate activities ,72.7,3255,
+01/01/2021,"Professional, scientific and technical activities",319.4,3162,
+01/01/2021,Administrative and support service activities ,574.8,1692,
+01/01/2021,Public administration and defence; compulsory social security,731,3929,
+01/01/2021,Education ,909.9,5331,
+01/01/2021,Human health and social work activities ,454,4193,
+01/01/2021,"Arts, entertainment and recreation",34.2,2562,
+01/01/2021,Other service activities,152.1,1735,
+01/01/2021,Average Median Wage,0,2765,
+01/01/2022,Agriculture,272,1504,
+01/01/2022,Mining and quarrying ,69.2,4268,
+01/01/2022,Manufacturing,1934.6,2205,
+01/01/2022,"Electricity, gas, steam and air conditioning supply ",81.3,3083,
+01/01/2022,"Water supply; sewerage, waste management and remediation activities ",72.1,2170,
+01/01/2022,Construction ,662.7,1839,
+01/01/2022,Wholesale and retail trade; repair of motor vehicles and motorcycles ,1637.4,1772,
+01/01/2022,Transportation and storage,532.5,2223,
+01/01/2022,Accommodation and food and beverage service activities,763.7,1623,
+01/01/2022,Information and communication,216.8,4034,
+01/01/2022,Financial and insurance/takaful activities ,357.3,3431,
+01/01/2022,Real estate activities ,66.8,3382,
+01/01/2022,"Professional, scientific and technical activities",333.2,3409,
+01/01/2022,Administrative and support service activities ,567.4,1773,
+01/01/2022,Public administration and defence; compulsory social security,748.3,4110,
+01/01/2022,Education ,926.2,5504,
+01/01/2022,Human health and social work activities ,490.5,4332,
+01/01/2022,"Arts, entertainment and recreation",42.8,2592,
+01/01/2022,Other service activities,172.5,1798,
+01/01/2022,Average Median Wage,0,2897,

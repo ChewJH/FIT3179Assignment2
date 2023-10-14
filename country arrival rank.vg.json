@@ -1,0 +1,38 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Top 10 Contries with the most arriving tourists",
+    "data": {
+        "url": "data/International Arrival Country.csv"
+    },
+    "mark": {
+        "type": "line",
+        "orient": "vertical",
+        "point": true
+    },
+    "encoding": {
+        "x": {
+            "field": "Year",
+            "timeUnit": "year",
+            "type": "temporal",
+            "title": "Year"
+        },
+        "y": {
+            "field": "Rank",
+            "type": "ordinal",
+            "sort": [1,2,3,4,5,6,7,8,9,10]
+        },
+        "color": {
+            "field": "Country",
+            "type": "nominal",
+            "legend": {
+                "labelLimit": 500
+            }
+        },
+        "tooltip": [
+            {"field": "Country"},
+            {"field": "Year", "timeUnit": "year", "title": "Year"},
+            {"field": "Rank"},
+            {"field": "Number of Arrivals"}
+        ]
+    }
+}

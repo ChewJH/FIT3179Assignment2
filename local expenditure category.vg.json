@@ -1,10 +1,10 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": {
-        "text": "Contribution of Tourism Industry towards GDP"
+        "text": "Local Expenditure by Category"
     },
     "data": {
-        "url": "data/GDP Tourism.csv"
+        "url": "data/Domestic Spending.csv"
     },
     "params": [
         {
@@ -40,27 +40,43 @@
     ],
     "mark": {
         "type": "arc",
-        "innerRadius": 70,
         "tooltip": true
     },
     "encoding": {
         "theta": {
-            "aggregate":"average",
-            "field": "GDP (RM millions)",
+            "aggregate": "average",
+            "field": "Total Expenditure (RM millions)",
             "type": "quantitative",
-            "stack": "normalize",
-            "title": "Percentage Contribution towards GDP"
+            "title": "Total Expenditure (RM millions)"
         },
         "color": {
-            "field": "Sector",
+            "field": "Category",
             "type": "nominal",
-            "scale": {
-                "range": ["#D4D4D4", "#D4D4D4", "#D4D4D4", "#D4D4D4", "#D4D4D4", "red"]
+            "legend": {
+                "labelLimit": 500
             }
-        }
+        },
+        "order": {
+            "aggregate": "average",
+            "field": "Total Expenditure (RM millions)",
+            "type": "quantitative",
+            "sort": "descending",
+            "title": "Total Expenditure (RM millions)"
+        },
+        "tooltip": [
+            {
+                "field": "Category"
+            },
+            {
+                "aggregate": "average",
+                "field": "Total Expenditure (RM millions)"
+            }
+        ]
     },
     "transform": [
-        { "filter": "Year_Filter == null ? year(datum.Year) <= 2022 : year(datum.Year) == Year_Filter"}
+        {
+            "filter": "Year_Filter == null ? year(datum.Year) <= 2022 : year(datum.Year) == Year_Filter"
+        }
     ],
     "config": {
         "arc": {
