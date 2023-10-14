@@ -1,0 +1,26 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+        "url": "data/Employment Tourism 2.csv"
+    },
+    "transform": [
+        {"calculate": "toDate(datum.Year)", "as": "Year"},
+        {"groupby": ["Year"]}
+    ],
+    "mark": "bar",
+    "encoding": {
+        "x": {
+            "field": "Year",
+            "type": "ordinal",
+            "timeUnit": "utcdate"
+        },
+        "y": {
+            "aggregate": "sum",
+            "field": "Number of Employed Workers",
+            "type": "quantitative",
+            "title": "Number of Employed Workers"
+        },
+        "color": {"field": "Industry", "type": "nominal"}
+    }
+   
+}

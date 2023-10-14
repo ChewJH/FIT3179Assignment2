@@ -1,0 +1,24 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Percentage of Labour Force in Tourism Industry",
+    "data": {
+        "url": "data/Employment Tourism.csv"
+    },
+    "mark": "line",
+    "encoding": {
+        "x": {
+            "field": "Year",
+            "type": "ordinal",
+            "title": "Year"
+        },
+        "y": {
+            "field": "Median Wage",
+            "type": "quantitative",
+            "title": "Number of Employed Workers (millions)"
+        },
+        "color": {
+            "field": "Industry",
+            "type": "nominal"
+        }
+    }
+}

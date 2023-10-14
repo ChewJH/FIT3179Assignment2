@@ -1,0 +1,16 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Tourist Expenditure by Category",
+    "data": {
+        "url": "data/International Spending.csv"
+    },
+    "mark": {
+        "type": "arc",
+        "tooltip": true
+    },
+    "encoding": {
+        "theta":{"aggregate":"average","field": "Expenditure (RM millions)", "type": "quantitative", "title": "Expenditure (RM millions)"},
+        "color": {"field": "Category", "type": "nominal"},
+        "order": { "aggregate":"average","field": "Expenditure (RM millions)", "type": "quantitative", "sort": "descending","title": "Expenditure (RM millions)"}
+    }
+}

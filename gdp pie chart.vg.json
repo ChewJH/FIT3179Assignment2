@@ -1,0 +1,39 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+        "text": "Contribution of Tourism Industry towards GDP"
+    },
+    "data": {
+        "url": "data/GDP Tourism.csv"
+    },
+    "mark": {
+        "type": "arc",
+        "innerRadius": 70,
+        "tooltip": true
+    },
+    "encoding": {
+        "theta": {
+            "aggregate": "average",
+            "field": "GDP (RM millions)",
+            "type": "quantitative",
+            "stack": "normalize",
+            "title": "Percentage Contribution towards GDP"
+        },
+        "color": {
+            "field": "Sector",
+            "type": "nominal",
+            "scale": {
+                "range": ["#D4D4D4", "#D4D4D4", "#D4D4D4", "#D4D4D4", "#D4D4D4", "red"]
+            }
+        }
+    },
+    "transform": [
+        {"groupby": ["Sector"]}
+    ],
+    "config": {
+        "arc": {
+            "strokeWidth": 1,
+            "stroke": "black"
+        }
+    }
+}
