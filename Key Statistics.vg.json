@@ -1,0 +1,33 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Correlation between number of tourists and receipts",
+    "data":{
+        "url": "data/Key Statistics.csv"
+    },
+    "mark": "circle",
+    "encoding": {
+        "x":{
+            "field": "Year",
+            "type": "temporal",
+            "timeUnit": "year"
+        },
+        "y":{
+            "field": "Total Expenditure",
+            "type": "quantitative",
+            "title": "Total Expenditure (RM millions)"
+        },
+        "color": {
+            "field": "Category",
+            "type": "nominal"
+        },
+        "size":{
+            "field": "Number of Visitors",
+            "type": "quantitative"
+        },
+        "tooltip":[
+            {"field": "Year", "timeUnit":"year", "title": "Year"},
+            {"field": "Total Expenditure", "title": "Total Expenditure (RM millions)"},
+            {"field": "Number of Visitors"}
+        ]
+    }
+}

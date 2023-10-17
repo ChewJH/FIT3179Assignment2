@@ -49,7 +49,7 @@
             "field": "GDP (RM millions)",
             "type": "quantitative",
             "stack": "normalize",
-            "title": "Percentage Contribution towards GDP"
+            "title": "Contribution towards GDP (RM millions)"
         },
         "color": {
             "field": "Sector",

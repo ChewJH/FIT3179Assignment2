@@ -1,6 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Composition of Tourism Industry as part of total Malaysian workforce",
+    "title": "Proportion of employment of the Tourism Industry",
+    "width": 600,
+    "height":400,
     "data": {
         "url": "data/Employment Tourism.csv"
     },
@@ -58,28 +60,28 @@
             "scale": {
                 "range": [
                     "red",
-                    "darkblue",
-                    "darkblue",
-                    "darkblue",
-                    "darkblue",
-                    "darkblue",
-                    "darkblue",
-                    "darkblue",
-                    "darkblue",
-                    "darkblue",
-                    "darkblue",
-                    "darkblue",
-                    "darkblue",
-                    "darkblue",
-                    "darkblue",
-                    "darkblue",
-                    "darkblue",
-                    "darkblue",
-                    "darkblue"
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4"
                 ]
             },
             "legend": {
-                "columns": 2,
+                
                 "rowPadding": 10,
                 "labelLimit": 500
             }

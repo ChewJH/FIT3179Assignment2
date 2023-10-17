@@ -1,6 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Median Wage of Tourism Industry Against Other Industries",
+    "width":600,
+    "height":400,
     "data": {
         "url": "data/Employment Tourism.csv"
     },
@@ -29,32 +31,31 @@
             ],
             "scale": {
                 "range": [
-                    "darkred",
+                    "red",
                     "blue",
-                    "lightgray",
-                    "lightgray",
-                    "lightgray",
-                    "lightgray",
-                    "lightgray",
-                    "lightgray",
-                    "lightgray",
-                    "lightgray",
-                    "lightgray",
-                    "lightgray",
-                    "lightgray",
-                    "lightgray",
-                    "lightgray",
-                    "lightgray",
-                    "lightgray",
-                    "lightgray",
-                    "lightgray",
-                    "lightgray"
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4",
+                    "#D4D4D4"
                 ]
             },
             "legend": {
             
-                "labelLimit": 500,
-                "symbolLimit":3
+                "labelLimit": 500
             }
         },
         "tooltip":[

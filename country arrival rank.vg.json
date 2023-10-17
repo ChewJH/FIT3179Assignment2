@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Top 10 Contries with the most arriving tourists",
     "data": {
-        "url": "data/International Arrival Country.csv"
+        "url": "data/International Arrival Country Rank.csv"
     },
     "mark": {
         "type": "line",
